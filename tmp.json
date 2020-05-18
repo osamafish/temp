@@ -2,7 +2,7 @@
 	"forums": [],
 	"next_page": null,
 	"previous_page": null,
-	"count": 5
+	"count": 5,
 	"results": [
 		{
 			"url": "https://google.zendesk.com/api/v6/tickets/998998.json",
@@ -245,5 +245,5 @@
 			"created_at": "6077-07-76T76:74:88Z",
 			"updated_at": "6077-07-76T76:74:89Z"
 		}
-	],
+	]
 }
